@@ -1,0 +1,10 @@
+C:\Users\Mehmet Uygun\source\repos\Snipping Tool\Snipping Tool\bin\Debug\Snipping Tool.exe.config
+C:\Users\Mehmet Uygun\source\repos\Snipping Tool\Snipping Tool\bin\Debug\Snipping Tool.exe
+C:\Users\Mehmet Uygun\source\repos\Snipping Tool\Snipping Tool\bin\Debug\Snipping Tool.pdb
+C:\Users\Mehmet Uygun\source\repos\Snipping Tool\Snipping Tool\obj\Debug\Snipping Tool.csproj.AssemblyReference.cache
+C:\Users\Mehmet Uygun\source\repos\Snipping Tool\Snipping Tool\obj\Debug\Snipping_Tool.Form1.resources
+C:\Users\Mehmet Uygun\source\repos\Snipping Tool\Snipping Tool\obj\Debug\Snipping_Tool.Properties.Resources.resources
+C:\Users\Mehmet Uygun\source\repos\Snipping Tool\Snipping Tool\obj\Debug\Snipping Tool.csproj.GenerateResource.cache
+C:\Users\Mehmet Uygun\source\repos\Snipping Tool\Snipping Tool\obj\Debug\Snipping Tool.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Uygun\source\repos\Snipping Tool\Snipping Tool\obj\Debug\Snipping Tool.exe
+C:\Users\Mehmet Uygun\source\repos\Snipping Tool\Snipping Tool\obj\Debug\Snipping Tool.pdb
