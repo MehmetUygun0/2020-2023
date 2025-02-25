@@ -1,4 +1,4 @@
-Converts the entered text into gibberish.
+# Converts the entered text into gibberish.
 
 Like this : Hello World >>> *-éé. z.(é%
 
