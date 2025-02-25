@@ -6,6 +6,7 @@ Because there are two snakes. One of them we control with the directional keys, 
 - Snakes can pass through walls.
 - Press the space bar and the game pause.
 - When we eat an apple, our money increases.
-- With this money we can change color or become rgb
+- With this money we can change color or become rgb.
+- They both have scores.
 ---
 ![image](https://github.com/user-attachments/assets/e3e6adb5-a102-4c76-8cf0-71af38ab1321)
