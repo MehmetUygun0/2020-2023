@@ -4,7 +4,7 @@ Like this : Hello World >>> *-éé. z.(é%
 
 This way you can take notes in a way that no one can understand. And you can convert it again when you need it.
 I've been encrypting it so that every character is a different character. It's actually not very reliable. A very simple thought at the time.
- - [ ] I will make a new one and add the GitHub link here
+ - [ ] I will make a new one and add the GitHub link [here](https://github.com/MehmetUygun0/2025/tree/main/Text%20Encryptor "GitHub Repository")
 ---
 
 ![image](https://github.com/user-attachments/assets/58d9dd2c-3013-42f6-b493-7802b8456309)
